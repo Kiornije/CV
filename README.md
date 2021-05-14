@@ -1,2 +1,2 @@
 # CV
-This is test to check code I've learned
+This is a test to check code I've learned
